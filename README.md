@@ -11,4 +11,4 @@ Sketch2Code uses AI to convert hand-written drawings to working HTML prototypes.
 
 
 <p align="center">
-   <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3DUgj?ver=cf9e&q=90&m=6&h=460&w=818&b=%23FFFFFFFF&l=f&o=t&aim=true" width="250px">
+   <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3DUgj?ver=cf9e&q=90&m=6&h=460&w=818&b=%23FFFFFFFF&l=f&o=t&aim=true" width="450px">
